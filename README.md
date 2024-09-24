@@ -1,13 +1,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World!!</h1></summary>
 </div>
 
 <p>
   Olá, eu sou o Lucas Felipe, sou desenvolvedor back-end.
 
-  - 📚 Estou estudando Egenharia de software na Universidade Cruzeiro do Sul.
+  - 📚 Estou estudando Engenharia de software na Universidade Cruzeiro do Sul.
 
   - 💼 Estou a procura do meu primeiro emprego na área da programação.
 </p>
