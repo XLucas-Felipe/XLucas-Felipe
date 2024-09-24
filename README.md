@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Hello World!!</h1></summary>
 </div>
 <p align="center">
-  <img height="200" align="right" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
+  <img height="300" align="right" src="https://giffiles.alphacoders.com/221/221222.gif" alt="Random GiF">
 </p>
 <p>
   Olá, eu sou o Lucas Felipe, sou desenvolvedor back-end.
@@ -28,7 +28,7 @@
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=XLucas-Felipe&show_icons=true&theme=dracula)
 
-## 📌 Minhas tecnologias
+###  Minhas tecnologias
 
   <div style="flex-basis: 48%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   </div>
 
-  ## 📌 Ferramentas que utilizo
+  ### Ferramentas que utilizo
 
   <div style="flex-basis: 48%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"height="40" alt="java logo"  />
