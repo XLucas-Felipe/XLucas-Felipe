@@ -1,6 +1,6 @@
 <h1 align="left">Olá!!👋</h1>
 <h2 align="left">Meu nome é Lucas Felipe, sou um desenvolvedor back-end.</h2>
-<img height="300" align="right" alt="gif-anime" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img height="220" align="right" alt="gif-anime" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <a href ="#"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href ="#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
