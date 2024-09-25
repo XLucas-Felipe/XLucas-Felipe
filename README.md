@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Hello World!!</h1></summary>
 </div>
 <p align="center">
-  <img height="300" align="right" src="https://giffiles.alphacoders.com/221/221222.gif" alt="Random GiF">
+  <img height="300" align="right" src="https://giffiles.alphacoders.com/221/221222.gif" alt="Zenitsu GiF">
 </p>
 <p>
   Olá, eu sou o Lucas Felipe, sou desenvolvedor back-end.
