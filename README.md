@@ -9,9 +9,7 @@
 <p>
   Olá, eu sou o Lucas Felipe, sou desenvolvedor back-end.
 
-  - 📚 Estou estudando Análise e desenvolvimento de sistemas.
-
-  - 💼 Estou a procura do meu primeiro emprego na área da programação.
+  - 📚 Estou cursando Análise e desenvolvimento de sistemas.
 </p>
 <details>
   <summary>👨‍💻 Mais informações</summary>
