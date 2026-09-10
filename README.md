@@ -16,14 +16,14 @@
 <details>
   <summary>👨‍💻 Mais informações</summary>
 
-  - 💬 Eu tenho 23 anos de idade, estou cursando o 2° período de Análise e desenvolvimento de sistemas, estudante de tecnologia focado em desenvolvimento de software. Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia.
+<p>  - 💬 Eu tenho 23 anos de idade, estou cursando o 2° período de Análise e desenvolvimento de sistemas, estudante de tecnologia focado em desenvolvimento de software. Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia.
 Minha stack atual:
 • Back-end: Java
 • Front-end: React, TypeScript, JavaScript, HTML e CSS
 • Ferramentas: Git e GitHub
 
 Estou estudando para construir aplicações completas e buscando minha primeira oportunidade no mercado de trabalho para trabalhar em equipe e evoluir..
-
+</p>
   
 </details>
 
