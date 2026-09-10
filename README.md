@@ -9,7 +9,7 @@
 <p>
   Olá, eu sou o Lucas Felipe, sou desenvolvedor back-end.
 
-  - 📚 Estou estudando Engenharia de software na Universidade Cruzeiro do Sul.
+  - 📚 Estou estudando Análise e desenvolvimento de sistemas.
 
   - 💼 Estou a procura do meu primeiro emprego na área da programação.
 </p>
