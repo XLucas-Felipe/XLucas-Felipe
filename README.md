@@ -16,12 +16,18 @@
 <details>
   <summary>👨‍💻 Mais informações</summary>
 
-  - 💬 Eu tenho 21 anos de idade, estou cursando o 6° período de Engenharia de Software, atualmente estou focando bastante na linguagem Java, tentado aprender e conseguir desenvolver alguns projetos, além de Spring boot e C# que está na minha lista, sou uma pessoa bastante dedicada em aprender, procuro uma primeira oportunidade de trabalho para conseguir constribuir para a empresa e equipe, além de adquirir mais conhecimento.
+  - 💬 Eu tenho 23 anos de idade, estou cursando o 2° período de Análise e desenvolvimento de sistemas, estudante de tecnologia focado em desenvolvimento de software. Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia.
+Minha stack atual:
+• Back-end: Java
+• Front-end: React, TypeScript, JavaScript, HTML e CSS
+• Ferramentas: Git e GitHub
 
-  - ⚡ Eu gosto bastante de assistir animes, séries, ler mangás e ir a academia. \o/
+Estou estudando para construir aplicações completas e buscando minha primeira oportunidade no mercado de trabalho para trabalhar em equipe e evoluir..
+
+  
 </details>
 
-<a href ="https://www.linkedin.com/in/xlucas-felipe-xd/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href ="www.linkedin.com/in/lucas-felipe-7ba111406" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href ="#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href ="#"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href ="#"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
