@@ -9,7 +9,9 @@
 <p>
  Olá, eu sou o Lucas Felipe, desenvolvedor focado em Back-end Java com conhecimentos em ecossistemas Front-end.
 
-  - 📚 Estou cursando Análise e desenvolvimento de sistemas.
+  - 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (UNIT PE — Conclusão em 2028).
+  - 🚀 **Momento Atual:** Residente em TI no Porto Digital (Recife - PE).
+    Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia.
 </p>
 
 <p>  - 💬 Eu tenho 23 anos de idade, estou cursando o 2° período de Análise e desenvolvimento de sistemas, estudante de tecnologia focado em desenvolvimento de software. Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia.</p>
