@@ -7,18 +7,17 @@
   <img height="300" align="right" src="https://giffiles.alphacoders.com/221/221222.gif" alt="Zenitsu GiF">
 </p>
 <p>
-  Olá, eu sou o Lucas Felipe, sou desenvolvedor back-end.
+ Olá, eu sou o Lucas Felipe, desenvolvedor focado em Back-end Java com conhecimentos em ecossistemas Front-end.
 
   - 📚 Estou cursando Análise e desenvolvimento de sistemas.
 </p>
 <details>
   <summary>👨‍💻 Mais informações</summary>
 
-<p>  - 💬 Eu tenho 23 anos de idade, estou cursando o 2° período de Análise e desenvolvimento de sistemas, estudante de tecnologia focado em desenvolvimento de software. Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia.
-Minha stack atual:</p>
-<p>• Back-end: Java</p>
-<p>• Front-end: React, TypeScript, JavaScript, HTML e CSS Java</p>
-<p>• Ferramentas: Git e GitHub</p>
+<p>  - 💬 Eu tenho 23 anos de idade, estou cursando o 2° período de Análise e desenvolvimento de sistemas, estudante de tecnologia focado em desenvolvimento de software. Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia.</p>
+<p>• Core Stack (Back-end): Java</p>
+<p>• Complementary Skills (Front-end): React, TypeScript, JavaScript, HTML5, CSS3</p>
+<p>• • Ferramentas & Utilitários: Git, GitHub, IntelliJ IDEA, Notion</p>
 <p>Estou estudando para construir aplicações completas e buscando minha primeira oportunidade no mercado de trabalho para trabalhar em equipe e evoluir..</p>
   
 </details>
