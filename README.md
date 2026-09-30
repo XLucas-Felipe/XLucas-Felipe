@@ -12,7 +12,7 @@
   - 📚 Estou cursando Análise e desenvolvimento de sistemas.
 </p>
 <details>
-  <summary>👨‍💻 Mais informações</summary>
+  
 
 <p>  - 💬 Eu tenho 23 anos de idade, estou cursando o 2° período de Análise e desenvolvimento de sistemas, estudante de tecnologia focado em desenvolvimento de software. Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia.</p>
 <p>• Core Stack (Back-end): Java</p>
