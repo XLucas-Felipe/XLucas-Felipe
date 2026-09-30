@@ -11,14 +11,15 @@
 
   - 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (UNIT PE — Conclusão em 2028).
   - 🚀 **Momento Atual:** Residente em TI no Porto Digital (Recife - PE).
-    Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia.
+  <p> Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia. </p> 
 </p>
 
-<p>  - 💬 Eu tenho 23 anos de idade, estou cursando o 2° período de Análise e desenvolvimento de sistemas, estudante de tecnologia focado em desenvolvimento de software. Venho dedicando meu tempo a construir projetos práticos para ganhar experiência real com código e aplicar o que estudo no dia a dia.</p>
-<p>• Core Stack (Back-end): Java</p>
-<p>• Complementary Skills (Front-end): React, TypeScript, JavaScript, HTML5, CSS3</p>
-<p>• • Ferramentas & Utilitários: Git, GitHub, IntelliJ IDEA, Notion</p>
-<p>Estou estudando para construir aplicações completas e buscando minha primeira oportunidade no mercado de trabalho para trabalhar em equipe e evoluir..</p>
+### 🛠️ Tecnologias e Ferramentas
+
+* **Core Stack (Back-end):** Java
+* **Complementary Skills (Front-end):** React, TypeScript, JavaScript, HTML5, CSS3
+* **Ferramentas & Utilitários:** Git, GitHub, IntelliJ IDEA, Notion
+
   
 <a href ="www.linkedin.com/in/lucas-felipe-7ba111406" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href ="#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
